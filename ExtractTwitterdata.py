@@ -15,7 +15,7 @@ consumer_secret='aaaBBBBBaaaaaBBBBBaaaaaaBBBBBBBaaaaaaBBBBBBBB'
 access_token='ddddddddd-xxxXXxxXXXXXxxxxxXXXXxxxxxXXXXXxxxxxxxxx'
 access_token_secret ='XXxxXXXXXxxxXXXxxXXXXxxxxxXXXXXxxxxxxxxx'
 
-## Define user name
+## Define twitter user name or read from list
 user='@datasciencectrl'
 
 ## Defining extract_twitter_data function which extracts data of twitter user
