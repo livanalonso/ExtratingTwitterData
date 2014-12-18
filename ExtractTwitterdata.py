@@ -4,7 +4,7 @@ import tweepy
 
 ## Authentication details
 ## Step 1: Sign in with your Twitter Account : https://apps.twitter.com/
-## Step 2: Create a new Twitter application (follow instructions)
+## Step 2: Create a new Twitter application (follow instructions, this step is very important)
 ## Step 3: Copy from API keys tab: consumer_key="API key" and consumer_secret="API secret"
 ## Step 4: Generate access token (API keys tab): access_token="Access token" and access_token_secret="Access token secret" 
 ## Learn how to do: https://dev.twitter.com/oauth/overview/application-owner-access-tokens
@@ -15,7 +15,7 @@ consumer_secret='aaaBBBBBaaaaaBBBBBaaaaaaBBBBBBBaaaaaaBBBBBBBB'
 access_token='ddddddddd-xxxXXxxXXXXXxxxxxXXXXxxxxxXXXXXxxxxxxxxx'
 access_token_secret ='XXxxXXXXXxxxXXXxxXXXXxxxxxXXXXXxxxxxxxxx'
 
-## Define twitter user name or read from list
+## Define twitter user name or read from list, this is an example for twitter user @datasciencectrl
 user='@datasciencectrl'
 
 ## Defining extract_twitter_data function which extracts data of twitter user
